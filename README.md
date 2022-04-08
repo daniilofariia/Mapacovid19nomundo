@@ -12,4 +12,3 @@ Manter informado sobre os casos de covid-19 no mundo
 [Material-UI](https://expressjs.com/pt-br/)
 
 
-Projeto sob supervisão do Bruno Carneiro na Digital Innovation One.
